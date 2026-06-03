@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": "Gold Chain 21k",
+    "cost": 150000,
+    "imageUrl": "https://picsum.photos/seed/chain/400/400"
+  },
+  {
+    "id": "2",
+    "name": "Silver Ring 925",
+    "cost": 35000,
+    "imageUrl": "https://picsum.photos/seed/ring/400/400"
+  },
+  {
+    "id": "3",
+    "name": "Diamond Stud Earrings",
+    "cost": 450000,
+    "imageUrl": "https://picsum.photos/seed/earrings/400/400"
+  },
+  {
+    "id": "4",
+    "name": "Pearl Bracelet",
+    "cost": 85000,
+    "imageUrl": "https://picsum.photos/seed/bracelet/400/400"
+  },
+  {
+    "id": "5",
+    "name": "Gold Pendant 18k",
+    "cost": 120000,
+    "imageUrl": "https://picsum.photos/seed/pendant/400/400"
+  },
+  {
+    "id": "6",
+    "name": "Custom Name Necklace",
+    "cost": 65000,
+    "imageUrl": "https://picsum.photos/seed/necklace/400/400"
+  }
+]
